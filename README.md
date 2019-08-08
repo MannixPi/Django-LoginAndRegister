@@ -1,4 +1,4 @@
-## [刘江的博客教程 - django实战项目一 : 可重用的登录注册系统](www.liujiangblog.com)
+## [刘江的博客教程 - django实战项目一 : 可重用的登录注册系统](http://www.liujiangblog.com)
 
 ## 简单的使用方法：
 
